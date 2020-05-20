@@ -10,7 +10,6 @@ public class TemperatureConversion {
 
   private static final double CELSIUS_FAHRENHEIT_SCALE = 9.0 / 5.0;
   private static double FAHRENHEIT_TO_CELSIUS_SCALE = 1 / CELSIUS_FAHRENHEIT_SCALE;
-
   private static final double SCALE_OFFSET = 32;
 
   public static void main(String[] args) {
